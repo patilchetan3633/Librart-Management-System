@@ -1,0 +1,297 @@
+{
+  "books": [
+    [
+      {
+        "id": "1",
+        "title": "Frankenstein",
+        "author": "Mary Shelley",
+        "isAvailable": "true",
+        "isbn": [
+          "101",
+          "102",
+          "103"
+        ],
+        "rent": "15",
+        "gener": "Gothic Fiction",
+        "cover": "img path"
+      },
+      {
+        "id": "2",
+        "title": "Dracula",
+        "author": "Bram Stoker",
+        "isAvailable": "true",
+        "isbn": [
+          "104",
+          "105",
+          "106"
+        ],
+        "rent": "18",
+        "gener": "Gothic Fiction",
+        "cover": "img path"
+      },
+      {
+        "id": "3",
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "isAvailable": "false",
+        "isbn": [
+          "107",
+          "108",
+          "109"
+        ],
+        "rent": "12",
+        "gener": "Romance",
+        "cover": "img path"
+      },
+      {
+        "id": "4",
+        "title": "1984",
+        "author": "George Orwell",
+        "isAvailable": "true",
+        "isbn": [
+          "110",
+          "111",
+          "112"
+        ],
+        "rent": "20",
+        "gener": "Dystopian Fiction",
+        "cover": "img path"
+      },
+      {
+        "id": "5",
+        "title": "The Lord of the Rings",
+        "author": "J.R.R. Tolkien",
+        "isAvailable": "true",
+        "isbn": [
+          "113",
+          "114",
+          "115"
+        ],
+        "rent": "25",
+        "gener": "Fantasy",
+        "cover": "img path"
+      },
+      {
+        "id": "6",
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "isAvailable": "false",
+        "isbn": [
+          "116",
+          "117",
+          "118"
+        ],
+        "rent": "10",
+        "gener": "Classic",
+        "cover": "img path"
+      },
+      {
+        "id": "7",
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "isAvailable": "true",
+        "isbn": [
+          "119",
+          "120",
+          "121"
+        ],
+        "rent": "17",
+        "gener": "Tragedy",
+        "cover": "img path"
+      },
+      {
+        "id": "8",
+        "title": "Moby Dick",
+        "author": "Herman Melville",
+        "isAvailable": "true",
+        "isbn": [
+          "122",
+          "123",
+          "124"
+        ],
+        "rent": "19",
+        "gener": "Adventure Fiction",
+        "cover": "img path"
+      },
+      {
+        "id": "9",
+        "title": "War and Peace",
+        "author": "Leo Tolstoy",
+        "isAvailable": "false",
+        "isbn": [
+          "125",
+          "126",
+          "127"
+        ],
+        "rent": "30",
+        "gener": "Historical Fiction",
+        "cover": "img path"
+      },
+      {
+        "id": "10",
+        "title": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "isAvailable": "true",
+        "isbn": [
+          "128",
+          "129",
+          "130"
+        ],
+        "rent": "14",
+        "gener": "Coming-of-age Fiction",
+        "cover": "img path"
+      },
+      {
+        "id": "11",
+        "title": "The Hobbit",
+        "author": "J.R.R. Tolkien",
+        "isAvailable": "true",
+        "isbn": [
+          "131",
+          "132",
+          "133"
+        ],
+        "rent": "22",
+        "gener": "Fantasy",
+        "cover": "img path"
+      },
+      {
+        "id": "12",
+        "title": "Brave New World",
+        "author": "Aldous Huxley",
+        "isAvailable": "true",
+        "isbn": [
+          "134",
+          "135",
+          "136"
+        ],
+        "rent": "16",
+        "gener": "Dystopian Fiction",
+        "cover": "img path"
+      },
+      {
+        "id": "13",
+        "title": "Jane Eyre",
+        "author": "Charlotte Brontë",
+        "isAvailable": "false",
+        "isbn": [
+          "137",
+          "138",
+          "139"
+        ],
+        "rent": "13",
+        "gener": "Gothic Fiction",
+        "cover": "img path"
+      },
+      {
+        "id": "14",
+        "title": "The Odyssey",
+        "author": "Homer",
+        "isAvailable": "true",
+        "isbn": [
+          "140",
+          "141",
+          "142"
+        ],
+        "rent": "20",
+        "gener": "Epic Poetry",
+        "cover": "img path"
+      },
+      {
+        "id": "15",
+        "title": "Crime and Punishment",
+        "author": "Fyodor Dostoevsky",
+        "isAvailable": "true",
+        "isbn": [
+          "143",
+          "144",
+          "145"
+        ],
+        "rent": "21",
+        "gener": "Philosophical Fiction",
+        "cover": "img path"
+      },
+      {
+        "id": "16",
+        "title": "Wuthering Heights",
+        "author": "Emily Brontë",
+        "isAvailable": "false",
+        "isbn": [
+          "146",
+          "147",
+          "148"
+        ],
+        "rent": "14",
+        "gener": "Gothic Fiction",
+        "cover": "img path"
+      },
+      {
+        "id": "17",
+        "title": "Don Quixote",
+        "author": "Miguel de Cervantes",
+        "isAvailable": "true",
+        "isbn": [
+          "149",
+          "150",
+          "151"
+        ],
+        "rent": "28",
+        "gener": "Picaresque",
+        "cover": "img path"
+      },
+      {
+        "id": "18",
+        "title": "The Count of Monte Cristo",
+        "author": "Alexandre Dumas",
+        "isAvailable": "true",
+        "isbn": [
+          "152",
+          "153",
+          "154"
+        ],
+        "rent": "23",
+        "gener": "Adventure Fiction",
+        "cover": "img path"
+      },
+      {
+        "id": "19",
+        "title": "Anna Karenina",
+        "author": "Leo Tolstoy",
+        "isAvailable": "false",
+        "isbn": [
+          "155",
+          "156",
+          "157"
+        ],
+        "rent": "26",
+        "gener": "Realist Novel",
+        "cover": "img path"
+      },
+      {
+        "id": "20",
+        "title": "One Hundred Years of Solitude",
+        "author": "Gabriel García Márquez",
+        "isAvailable": "true",
+        "isbn": [
+          "158",
+          "159",
+          "160"
+        ],
+        "rent": "18",
+        "gener": "Magical Realism",
+        "cover": "img path"
+      }
+    ]
+  ],
+  "members": [
+    {
+      "id": "1",
+      "name": "deep ghag",
+      "email": "deep@gmail.com",
+      "phone": "9834573289",
+      "address": "Mumbai, Maharashtra-40000",
+      "type": "student",
+      "isActive": "true"
+    }
+  ]
+}
